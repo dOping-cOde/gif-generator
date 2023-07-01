@@ -1,1 +1,1 @@
-# random-gifs
+# gif-generator
